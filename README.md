@@ -13,6 +13,3 @@ I have a strong foundation in computer systems and networks, but my true passion
 * **Infrastructure & Systems:** Linux, QEMU/KVM, Ubuntu VMs
 * **Frameworks:** Django (for building web-based tools)
 * **Machine Learning:** Custom C Implementations, Supervised & Unsupervised Algorithms
-
-### GitHub Stats
-![Rayane's GitHub Streak](https://streak-stats.demolab.com/?user=Rayanex7&theme=radium&hide_border=true)
