@@ -15,4 +15,4 @@ I have a strong foundation in computer systems and networks, but my true passion
 * **Machine Learning:** Custom C Implementations, Supervised & Unsupervised Algorithms
 
 ### GitHub Stats
-![Rayane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayanex7&show_icons=true&theme=radium)
+![Rayane's GitHub Streak](https://streak-stats.demolab.com/?user=Rayanex7&theme=radium&hide_border=true)
